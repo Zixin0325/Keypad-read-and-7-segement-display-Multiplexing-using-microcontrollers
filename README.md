@@ -12,4 +12,4 @@ the program should be able to do the following:
       ● For every keypress, shift the rightmost displayed value to the left seven-segment digit (most significant), then display the key pressed on the rightmost digit(least significant).
       ● The display should be multiplexed and show both digits simultaneously (at least to the human eye).
       
-      ![image](https://user-images.githubusercontent.com/88007099/127702850-c8328562-cd72-419b-8031-596fbbc65720.png)
+ ![image](https://user-images.githubusercontent.com/88007099/127702868-9ce9d1c3-873b-43a6-8cc4-90baea8b8669.png)
