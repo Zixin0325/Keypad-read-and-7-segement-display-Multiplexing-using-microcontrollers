@@ -1,4 +1,4 @@
-# Multiplexing-using-microcontrollers
+# Keypad read and 7-segement display/Multiplexing-using-microcontrollers
 
 Using input multiplexing and output multiplexing technique on MPLAB to drive a PIC24 microcontroller. 
 
